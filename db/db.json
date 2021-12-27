@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "css",
+      "author": "dhana",
+      "id": 3
+    },
+    {
+      "title": "html css js",
+      "author": "sathya",
+      "id": 4
+    },
+    {
+      "title": "ReactJS",
+      "author": "shashi",
+      "id": 5
+    }
+  ]
+}
